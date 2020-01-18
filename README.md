@@ -10,6 +10,7 @@ Excel games, procedure, user define function, and other interesting stuff built 
   <img src="demo/Sliding Puzzle demo.gif" height="300"><br/>
   <i>Sliding Puzzle</i>
 </p>
+
 - Tetris
 
   This game popular in Nintendo era. Make full row to gain points.
@@ -17,6 +18,7 @@ Excel games, procedure, user define function, and other interesting stuff built 
   <img src="demo/Tetris demo.gif" height="300"><br/>
   <i>Tetris</i>
 </p>
+
 - Snake
 
   This game popular in Nokia mobile phone as built-in game. Just make your snake keep eating apple's and your snake will grow longer.
@@ -25,6 +27,7 @@ Excel games, procedure, user define function, and other interesting stuff built 
   <img src="demo/Snake demo.gif" height="300"><br/>
   <i>Snake</i>
 </p>
+
 - Maze
 
   You lost on a maze (or a labyrinth, i dont know the difference), and you must go to the other side to escape from this maze.
